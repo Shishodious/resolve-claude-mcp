@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+matte/.venv/
+mailbox/
+__pycache__/
+*.pyc
+# model weights (download separately, see README)
+matte/models/
+*.pt
+*.pth
